@@ -1,3 +1,10 @@
+#Disclaimer
+#This code is not original and is implemented as a practice tutorial to improve oneself understanding towards 
+#python dunder methods.
+#The tutorial and explanation could be found on
+#https://medium.com/mlearning-ai/dancing-with-python-dunder-methods-b5d89172b622
+
+
 class Quaternion:
   def __init__(self, a, b, c, d):
     self.a = a
