@@ -4,4 +4,4 @@ def add(x,y);
   return None
 
 def multiply(x,y);
-  return x*y*x*y
+  return x*y
